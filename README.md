@@ -1,14 +1,13 @@
 # clojure-repl
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library sample.
 
-## Usage
 
-FIXME
+
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 Anil
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
